@@ -1,1 +1,1 @@
-A simplt TODO list using React
+A simple TODO list using React

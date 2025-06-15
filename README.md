@@ -1,1 +1,1 @@
-A simple TODO list using React
+A simple TODO list or TaskManager using React
